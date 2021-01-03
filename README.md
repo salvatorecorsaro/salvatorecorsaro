@@ -5,7 +5,7 @@ I moved to Madrid from Sicily and enrolled in 42 school.
 I enjoy coding in different languages and I'm always looking for different and better ways to achieve results and solve problems.
 I'm an enthusiast of data-driven solutions.
 
-My other passions are:
+My other passions are: /n
 :brain: neuroscience
 :books: philosophy
 :deciduous_tree: environmental protections
