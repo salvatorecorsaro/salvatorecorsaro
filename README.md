@@ -5,7 +5,11 @@ I moved to Madrid from Sicily and enrolled in 42 school.
 I enjoy coding in different languages and I'm always looking for different and better ways to achieve results and solve problems.
 I'm an enthusiast of data-driven solutions.
 
-My other passions are neuroscience, philosophy, and environmental protections
+My other passions are:
+:brain: neuroscience
+:books: philosophy
+:deciduous_tree: environmental protections
+:lotus_position_man: meditation
 
 [![Salvatore's github stats](https://github-readme-stats.vercel.app/api?username=salvatorecorsaro&theme=blue-green)]
 ![1](https://github-readme-stats.vercel.app/api/top-langs/?username=salvatorecorsaro&theme=blue-green)
